@@ -28,3 +28,6 @@ So my setup is:
 * Test support for USB-TTL-UART
   * CH340E (CH340X)
 
+My testing setup:
+![PCB in case](https://github.com/RlinkSystem/SBC09-CPU_X-3_rev-3/blob/79dff3710872a0468f3453731f23e19ab0c29039/CPU_X-3_r3_box.jpeg)
+
