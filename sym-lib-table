@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Rockwell_65xx")(type "KiCad")(uri "${KIPRJMOD}/Rockwell_65xx.kicad_sym")(options "")(descr ""))
+  (lib (name "Library_65-68")(type "KiCad")(uri "/Users/rogerlanden/Z180/6809/CPU_X-3/Library_65-68.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,215 @@
+(footprint "Avkoppling_LC"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "CP, Axial series, Axial, Horizontal, pin pitch=33mm, length*diameter=26.5*20mm^2, Electrolytic Capacitor, http://www.kemet.com/Lists/ProductCatalog/Attachments/424/KEM_AC102.pdf")
+	(tags "CP Axial series Axial Horizontal pin pitch 33mm  length 26.5mm diameter 20mm Electrolytic Capacitor")
+	(property "Reference" "${REFERENCE}"
+		(at 0.04 0 90)
+		(layer "F.SilkS")
+		(uuid "2eac3a0d-e160-406a-a9d1-6cec396f3d05")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "${VALUE}"
+		(at -2.54 0 90)
+		(layer "F.SilkS")
+		(uuid "60165920-a12b-40b7-bdcb-0656579e704e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5fa80c7f-f4bc-4fff-a016-e4fe9f50e735")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Avkoplings kondensator"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1c0428e6-e7ad-4c97-ab80-9a95b0797232")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.27 -6.35)
+		(end 1.27 -6.35)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c533138f-3a11-4e22-a95e-ed67b6ffc8cb")
+	)
+	(fp_line
+		(start -1.27 6.35)
+		(end -1.27 -6.35)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "39be0cf4-9b80-4c74-b197-04d9d8e57dd6")
+	)
+	(fp_line
+		(start -1.27 6.35)
+		(end 1.27 6.35)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c49c6b84-65f5-4b9b-b36e-d26041db073c")
+	)
+	(fp_line
+		(start 0.04 -14.86)
+		(end 0 -6.35)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a2c2efc6-11d3-4cd3-b049-f11da40ed291")
+	)
+	(fp_line
+		(start 0.04 14.86)
+		(end 0.04 6.35)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e03730fe-d2a7-425c-a34b-11d383425efc")
+	)
+	(fp_line
+		(start 1.27 6.35)
+		(end 1.27 -6.35)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0b61479b-cf7a-42f6-8010-b0f25b3069af")
+	)
+	(fp_line
+		(start -1.27 -6.35)
+		(end 1.27 -6.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5c2075de-4999-4c00-a8d2-95e556666777")
+	)
+	(fp_line
+		(start -1.27 6.35)
+		(end -1.27 -6.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7d0780bc-c7e6-45b1-ab7b-d81aa13710a5")
+	)
+	(fp_line
+		(start -1.27 6.35)
+		(end 1.27 6.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f75bac56-22cf-4583-805a-cf90273ddffe")
+	)
+	(fp_line
+		(start 0.04 -16.5)
+		(end 0 -6.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5a9e44b2-d37e-4a6d-8741-72bc03bb82cd")
+	)
+	(fp_line
+		(start 0.04 16.5)
+		(end 0.04 6.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1db5a47a-660e-479e-a38b-c4d1087c4691")
+	)
+	(fp_line
+		(start 1.27 6.35)
+		(end 1.27 -6.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "caebf1e7-798b-4b9c-9fb1-b61d4c44ad78")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.04 0 90)
+		(layer "F.Fab")
+		(uuid "060ddc81-45d4-4a4b-8a3c-03a02b200f3a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0.04 16.5)
+		(size 2.4 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.089286)
+		(uuid "14145644-c4ef-476a-a28a-8a660d6b7cb4")
+	)
+	(pad "2" thru_hole rect
+		(at 0.04 -16.5)
+		(size 2.4 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e6b5b91c-4336-4bb0-9d1f-34bf9c7dcc0a")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Axial_L26.5mm_D20.0mm_P33.00mm_Horizontal.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
